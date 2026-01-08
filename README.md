@@ -1,3 +1,6 @@
+## Live Demo
+👉 https://tech-job-salary-dashboard-bn3knyaxbvshywnf63ouwv.streamlit.app/
+
 # Tech Job Salary Dashboard
 
 An interactive dashboard built with Python and Streamlit to explore tech job salaries by role, experience level, and remote work.
@@ -14,6 +17,12 @@ An interactive dashboard built with Python and Streamlit to explore tech job sal
 - Pandas
 - Streamlit
 - Plotly
+
+## What This Shows
+- Ability to clean and prepare real-world datasets
+- Strong exploratory data analysis skills
+- Experience building and deploying interactive dashboards
+- Communicating insights visually for non-technical audiences
 
 ## Dataset
 Public tech salary dataset containing global job roles, compensation, experience levels, and remote ratios.
